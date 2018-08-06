@@ -50,6 +50,7 @@ blockquote{
 /* And have the main column take up a wider section of the page: */
 .maincolumn {
     margin-top:10px;
+
  /*   width: 100%; */
 }
 

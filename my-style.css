@@ -7,11 +7,14 @@
 
 .main, .refcontent, .tocset, .tocview, .tocsub, .sroman, i {
     font-family:'Lato', Arial, Helvetica, sans-serif;
-    font-size: 1.18rem;
 }
 
 h1, h2, h3, h4, h5, h6, h7, h8 {
     font-family:'Lata', Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin-top:0px;
 }
 
 img {
@@ -22,7 +25,9 @@ img {
 }
 
 .tocset{
-    background-color:#26ACE0}
+    background-color:#26ACE0;
+    padding-top: 30px;
+}
 
 .versionbox{
     display:none;
@@ -32,7 +37,6 @@ img {
 
 
 #E59437,#FFB95E,#F9D09D,#26ACE0,#FFCED6,#E59437,#FFB95E,#F9D09D
-
 
 pre, p, .SIntrapara {
     padding: 0;
@@ -44,7 +48,10 @@ blockquote{
 }
 
 /* And have the main column take up a wider section of the page: */
-.maincolumn { width: 100%;}
+.maincolumn {
+    margin-top:10px;
+ /*   width: 100%; */
+}
 
 .SIntrapara, li>p{display: inline;}
 
@@ -53,6 +60,7 @@ body {
     padding:      0px;
     margin:       0px;
     font-family: 	'Lato', Arial, Helvetica, sans-serif;
+    font-size:16px;
     color: #000;
 }
 

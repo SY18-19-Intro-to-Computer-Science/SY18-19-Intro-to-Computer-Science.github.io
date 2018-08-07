@@ -25,7 +25,7 @@ img {
 }
 
 .tocset{
-    background-color:#26ACE0;
+    background-color:#25AAE1;
     padding-top: 30px;
 }
 
@@ -35,8 +35,9 @@ img {
 
 #00ADE2,#E7F053,#FAFF6D,#FFB86D,#F28C60
 
+#26ACE0,#E59437,#FFB95E,#F9D09D,#FFCED6
 
-#E59437,#FFB95E,#F9D09D,#26ACE0,#FFCED6
+#25AAE1,#51F3FF,#243671,#F7CE18,#C9E01F
 
 pre, p, .SIntrapara {
     padding: 0;
@@ -67,11 +68,11 @@ body {
 
 a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plainlink, 
 .techinside, .techoutside:hover, .techinside:hover {
-    color: #00ADE2;
+    color: #25AAE1;
 }
 
 a{
-    color: #00ADE2;
+    color: #25AAE1;
     text-decoration: none;
 }
 

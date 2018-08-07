@@ -65,6 +65,11 @@ body {
     color: #000;
 }
 
+a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plainlink, 
+.techinside, .techoutside:hover, .techinside:hover {
+    color: #00ADE2;
+}
+
 a{
     color: #00ADE2;
     text-decoration: none;

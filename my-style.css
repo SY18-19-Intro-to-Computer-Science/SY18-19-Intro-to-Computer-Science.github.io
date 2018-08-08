@@ -31,7 +31,17 @@ img {
 
 .versionbox{
     display:none;
-    }
+}
+
+.navsettop, .navsetbottom {
+    left: 0;
+    width: 15rem;
+    height: 20px;
+    font-size: 0.9rem;
+    border-bottom: 0px solid hsl(216, 15%, 70%);
+    background-color: inherit;
+    padding: 0;
+}
 
 #00ADE2,#E7F053,#FAFF6D,#FFB86D,#F28C60
 
